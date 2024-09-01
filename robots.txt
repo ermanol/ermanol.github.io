@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ermanol.github.io/sitemap.html.gz
+Sitemap: https://ermanol.github.io/app/sitemap.html.gz
+Sitemap: https://ermanol.github.io/assets/sitemap.html.gz
+Sitemap: https://ermanol.github.io/css/sitemap.html.gz
+Sitemap: https://ermanol.github.io/includes/sitemap.html.gz
+Sitemap: https://ermanol.github.io/item/sitemap.html.gz
+Sitemap: https://ermanol.github.io/src/sitemap.html.gz
